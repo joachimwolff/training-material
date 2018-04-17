@@ -53,7 +53,7 @@ After a corrected Hi-C matrix is created other tools can be used to visualize it
 >    > * Press **Start**
 >    {: .tip}
 >
-> 3. Rename the data set to something meaningful, e.g. `HiC_S2_1p_10min_lowU_R1` and `HiC_S2_1p_10min_lowU_R2`.
+> 3. Rename the dataset to something meaningful, e.g. `HiC_S2_1p_10min_lowU_R1` and `HiC_S2_1p_10min_lowU_R2`.
 > By default, when data is imported via its link, Galaxy names it with its URL.
 >
 {: .hands_on}
@@ -73,7 +73,7 @@ We have used the HiCExplorer successfully with bwa, bowtie2 and hisat2. In this 
 >    - "Will you select a reference genome from your history or use a built-in index?" to `Use a built-in index`
 >    - "Select a reference genome" to `dm3`
 >    - "Is this library mate-paired?" to `Single-end or interleaved paired-end`
->    - Set multiple data sets
+>    - Set multiple datasets
 >    - "FASTQ file" to `HiC_S2_1p_10min_lowU_R1`and `HiC_S2_1p_10min_lowU_R2`
 >    - "BWA settings to use" to `Full parameter List`
 >    - "Gap extension penalty (-E)" to `50`
